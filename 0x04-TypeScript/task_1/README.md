@@ -8,11 +8,11 @@ Add the possibility to add any attribute to the Object like contract(boolean) wi
 Example:
 
 const teacher3: Teacher = {
-  firstName: 'John',
-  fullTimeEmployee: false,
-  lastName: 'Doe',
-  location: 'London',
-  contract: false,
+firstName: 'John',
+fullTimeEmployee: false,
+lastName: 'Doe',
+location: 'London',
+contract: false,
 };
 
 console.log(teacher3);
